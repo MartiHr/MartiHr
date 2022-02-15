@@ -6,6 +6,5 @@
 - 🤔 I’m looking for help with girls.
 - 💬 Ask me about anything.
 - 📫 How to reach me: martinhristov45@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: TheOne/God
+- ⚡ Fun fact: Calisthenics guy
