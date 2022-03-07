@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on myself.
-- 🌱 I’m currently learning  C#, T-SQL, HTML, CSS and JS.
+- 🌱 I’m currently learning  C#, T-SQL, JS, HTML and CSS.
 - 👯 I’m looking to collaboration on C# projects.
 - 🤔 I’m looking for help with girls.
 - 💬 Ask me about anything.
