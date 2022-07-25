@@ -9,4 +9,4 @@
 - 😄 Pronouns: TheOne/God
 - ⚡ Fun fact: Calisthenics guy
 
-https://github-readme-stats.vercel.app/api?username=MartiHr&theme=highcontrast&show_icons=true&count_private=true
+![api](https://user-images.githubusercontent.com/81310884/180787323-a80d3436-a0f6-4f70-9059-1639e7e18ab9.svg)
