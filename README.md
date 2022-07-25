@@ -8,3 +8,5 @@
 - 📫 How to reach me: martinhristov45@gmail.com
 - 😄 Pronouns: TheOne/God
 - ⚡ Fun fact: Calisthenics guy
+
+https://github-readme-stats.vercel.app/api?username=MartiHr&theme=highcontrast&show_icons=true&count_private=true
