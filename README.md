@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning  C#, T-SQL, JS, React, HTML and CSS.
 - 👯 I’m looking to collaborate on C# projects.
-- 🤔 I’m looking for help with girls.
+- 🤔 I’m looking for help with girls. (Not anymore)
 - 💬 Ask me about anything.
 - 📫 How to reach me: martinhristov45@gmail.com
 - 😄 Pronouns: TheOne/God
