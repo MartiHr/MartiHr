@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on myself.
-- 🌱 I’m currently learning  C#, T-SQL, JS, React, HTML and CSS.
+- 🌱 I’m currently learning  C#, T-SQL, JS, React, C++, HTML and CSS.
 - 👯 I’m looking to collaborate on C# projects.
 - 💬 Ask me about anything.
 - 📫 How to reach me: martinhristov45@gmail.com
